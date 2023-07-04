@@ -224,7 +224,7 @@ $$  /   \$$ |$$ |  $$ |   $$ |   $$$$$$$$\ $$ |  $$ |$$ | \_/ $$ |$$ |  $$ |$$ |
 \__/     \__|\__|  \__|   \__|   \________|\__|  \__|\__|     \__|\__|  \__|\__|  \__|\__|  \__|
 */
 div[class*="typeWindows-"]::after {
-  content: '🔮  OffVoen  🔮';
+  content: '🔮  .fantazia  🔮';
   font-weight: bold;
   font-size: 14px;
   line-height: 30px;
